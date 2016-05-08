@@ -1,6 +1,6 @@
-# A Million Things To Do With A Computer
+### A Million Things To Do With A Computer
 
-tef
+_tef_
 
 Scratch has these philosophies:
 * Low floors - easy to get started

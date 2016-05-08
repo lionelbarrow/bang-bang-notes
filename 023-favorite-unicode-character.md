@@ -1,6 +1,6 @@
-# My Favorite Unicode Character
+### My Favorite Unicode Character
 
-Anne DeCusatis
+_Anne DeCusatis_
 
 Definitions:
 * Character - Unicode code point

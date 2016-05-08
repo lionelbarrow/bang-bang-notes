@@ -1,6 +1,6 @@
-# Plants are Recursive - Using L Systems to Generate Weeds
+### Plants are Recursive - Using L Systems to Generate Weeds
 
-Sher Minn Chong
+_Sher Minn Chong_
 
 Recursion not just in the sense of functions calling themselves, but rather the self-similar repetition (e.g. fractals). Many plants exhibit obvious fractal tendencies.
 

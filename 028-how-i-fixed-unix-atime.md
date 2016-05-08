@@ -1,6 +1,6 @@
-# How I fixed UNIX atime - with ten lines of code and feminism!
+### How I fixed UNIX atime - with ten lines of code and feminism!
 
-Valerie Aurora
+_Valerie Aurora_
 
 Every UNIX file has three useful timestamps:
 * atime - the last time the file was read or _a_ ccessed

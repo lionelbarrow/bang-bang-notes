@@ -1,5 +1,3 @@
-# Mixing Paint! With Computers!
+### Mixing Paint! With Computers!
 
-Diana Liao
-
-
+_Diana Liao_

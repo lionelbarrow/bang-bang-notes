@@ -1,6 +1,6 @@
-# I'm not a number, I'm a free file descriptor
+### I'm not a number, I'm a free file descriptor
 
-Andreas Fuchs
+_Andreas Fuchs_
 
 File descriptors are numbers that point at an entry on the file descriptor state data structure in the kernel. File descriptors point at basically any input or output system - files, pipes, etc.
 

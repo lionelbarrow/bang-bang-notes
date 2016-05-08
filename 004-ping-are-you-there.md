@@ -1,6 +1,6 @@
-# Ping! Are you there?
+### Ping! Are you there?
 
-Lydia Gu
+_Lydia Gu_
 
 Layered model of entowrking: transport, network, link.
 

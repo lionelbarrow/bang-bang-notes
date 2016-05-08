@@ -1,6 +1,6 @@
-# What Developers and Economists Can Learn From Each Other
+### What Developers and Economists Can Learn From Each Other
 
-Rob Jefferson
+_Rob Jefferson_
 
 Economists do a ton of programming. After being in both programming and economics, Rob things the two disciplines can learn a lot from each other.
 

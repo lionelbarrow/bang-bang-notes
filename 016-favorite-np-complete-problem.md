@@ -1,6 +1,6 @@
-# My Favorite NP Complete Problem
+### My Favorite NP Complete Problem
 
-Mark Dominus
+_Mark Dominus_
 
 NP problems are easy to check that a solution is correct but not necessarily easy to compute the correct solution.
 

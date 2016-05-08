@@ -1,6 +1,6 @@
-# Storing your data in kernel space - an excellent bad idea!
+### Storing your data in kernel space - an excellent bad idea!
 
-Kamal Marhubi
+_Kamal Marhubi_
 
 Ordinarily when writing programs, we want to keep memory usage low. We don't like when Firefox uses 2gb of memory on a 4gb laptop.
 

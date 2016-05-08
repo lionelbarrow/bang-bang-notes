@@ -1,6 +1,6 @@
-# They're Functional! They're Efficient! They're Persist Data Structures!
+### They're Functional! They're Efficient! They're Persist Data Structures!
 
-Anjana Vakil
+_Anjana Vakil_
 
 In functional programming, functions can't have side effects. This naturally pushes people to use immutable data structures. This leads to inefficiences, though, because small modifications to data structures often manifest as full copies of the existing structure.
 

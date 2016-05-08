@@ -1,6 +1,6 @@
-# Upstream/Downstream: Discovering and Displaying Watershed Topology!
+### Upstream/Downstream: Discovering and Displaying Watershed Topology!
 
-Mark Philips
+_Mark Philips_
 
 Given any particular spot on the ground, if it rains there, where does the water go? What is downstream from that spot? Conversely, what is upstream from that spot?
 

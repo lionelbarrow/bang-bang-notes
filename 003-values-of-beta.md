@@ -1,6 +1,6 @@
-# Values of beta may give rise to dom!
+### Values of beta may give rise to dom!
 
-Mark Allen
+_Mark Allen_
 
 Title is an obscure error message that Mark ran into in UNIX.
 

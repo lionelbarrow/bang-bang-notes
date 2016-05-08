@@ -1,6 +1,6 @@
-# Preserving Digital Art And Games For 100 Years!
+### Preserving Digital Art And Games For 100 Years!
 
-wilkie
+_wilkie_
 
 Wilkie works as something like a digital archivest. In particular, he helps scientists package their code and methods in a way that is reproducable and storable for the long term, so that future scientists can re-run the experiments if they need to. However, it's really hard to get people to care about archival.
 

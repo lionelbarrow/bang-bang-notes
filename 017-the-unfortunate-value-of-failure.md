@@ -1,6 +1,6 @@
-# The Unfortunate Value of Failure
+### The Unfortunate Value of Failure
 
-Ramsey Nasser
+_Ramsey Nasser_
 
 As developers we fail all the time, and it feels bad.
 

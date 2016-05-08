@@ -1,6 +1,6 @@
-# How I code and use a computer at 1000 WPM!
+### How I code and use a computer at 1000 WPM!
 
-Sina Bahram
+_Sina Bahram_
 
 (Sina is blind)
 

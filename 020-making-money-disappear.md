@@ -1,6 +1,6 @@
-# Making Money Disappear With Hash Functions
+### Making Money Disappear With Hash Functions
 
-Brendan Cordy
+_Brendan Cordy_
 
 What is a bitcoin address?
 

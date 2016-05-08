@@ -1,6 +1,6 @@
-# Lossy Text Compression, for some reason?
+### Lossy Text Compression, for some reason?
 
-Allison Parrish
+_Allison Parrish_
 
 Lossy compression: represent values in a small representation with loss of precision.
 

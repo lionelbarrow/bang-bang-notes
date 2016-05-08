@@ -1,6 +1,6 @@
-# Tales of the Cursed Operating Systems Textbook
+### Tales of the Cursed Operating Systems Textbook
 
-Kiran Bhattaram
+_Kiran Bhattaram_
 
 1. Kernel memory leaks
 

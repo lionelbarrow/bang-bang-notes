@@ -1,6 +1,6 @@
-# Programming Culture
+### Programming Culture
 
-Catt Small
+_Catt Small_
 
 How vs what and why
 

@@ -1,6 +1,6 @@
-# Don't forget to sketch
+### Don't forget to sketch
 
-Adam Marcus
+_Adam Marcus_
 
 Often have too much data to study in depth, but want to get some broad sketches of it. Here are two sketching algorithms: the bloom filter and the count min function.
 

@@ -1,6 +1,6 @@
-# A Shot In The Dark
+### A Shot In The Dark
 
-Brendan Curran-Johnson
+_Brendan Curran-Johnson_
 
 Brendan reverse engineered a camera and now can control it from his laptop. 
 

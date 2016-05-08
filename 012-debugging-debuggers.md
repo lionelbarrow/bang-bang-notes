@@ -1,5 +1,3 @@
-# Debugging Debuggers!!
+### Debugging Debuggers!!
 
-Samy Al Bahra
-
-
+_Samy Al Bahra_

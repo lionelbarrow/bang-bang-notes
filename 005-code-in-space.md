@@ -1,6 +1,6 @@
-# Code in Spaaace!
+### Code in Spaaace!
 
-Katie Bechtold
+_Katie Bechtold_
 
 Katie has worked on a lot of software that has gone to other planets or at least flown past them.
 

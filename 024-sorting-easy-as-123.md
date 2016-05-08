@@ -1,6 +1,6 @@
-# Sorting is as easy as 1, 2, 3 -- but not as easy as a, b, c
+### Sorting is as easy as 1, 2, 3 -- but not as easy as a, b, c
 
-Jake Levine
+_Jake Levine_
 
 Last year, Meetup added support for Japanese! When a user signs up for Meetup, they're presented with a list of categories that they're interested in. But when this list was translated to Japanese, it wasn't sorted anymore. What gives?
 

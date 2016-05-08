@@ -1,6 +1,6 @@
-# All Together Now! Programming the Quantum Computer
+### All Together Now! Programming the Quantum Computer
 
-Jennifer Fernick
+_Jennifer Fernick_
 
 Thing to take away: the various levels of abstraction on a quantum computer
 

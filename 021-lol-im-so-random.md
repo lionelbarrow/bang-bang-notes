@@ -1,6 +1,6 @@
-# lol im so random
+### lol im so random
 
-Mark Wunsch
+_Mark Wunsch_
 
 `Math.random()` exists in both Java and Javascript. How do we teach a computer to flip a coin?
 
