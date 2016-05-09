@@ -9,3 +9,4 @@ I especially could use some help on:
 * [Mixing Paint](009-mixing-paint.md)
 * [Debugging Debuggers](012-debugging-debuggers.md)
 * [Convolution and the Fourier transform](013-convolution-and-fourier-transform.md)
+* [Ink on Fingers](029-ink-on-fingers.md)
